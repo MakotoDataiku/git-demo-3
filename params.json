@@ -215,7 +215,7 @@
       }
     }
   },
-  "name": "Git Demo for Daimler",
+  "name": "Haiku Starter for Makoto Miyazaki",
   "projectStatus": "Sandbox",
   "imgPattern": 8,
   "metrics": {
@@ -273,11 +273,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 136,
+    "versionNumber": 135,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1617961517970
+    "lastModifiedOn": 1617961505023
   },
   "creationTag": {
     "versionNumber": 0,
