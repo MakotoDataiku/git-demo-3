@@ -216,8 +216,7 @@
       }
     }
   },
-  "name": "Haiku Starter for Makoto Miyazaki",
-  "projectStatus": "Sandbox",
+  "name": "Haiku Starter for Makoto Miyazaki (prune-flow)",
   "imgPattern": 8,
   "metrics": {
     "probes": [],
@@ -274,11 +273,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 136,
+    "versionNumber": 138,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1617961740376
+    "lastModifiedOn": 1617961922210
   },
   "creationTag": {
     "versionNumber": 0,
@@ -288,9 +287,10 @@
     "lastModifiedOn": 1498738782025
   },
   "description": "",
-  "shortDesc": "This project works with the data used in the [Basics 101-103 courses](https://academy.dataiku.com/page/core-concepts), and is a starting point for a number of learning materials.\n",
+  "shortDesc": "This project works with the data used in the [Basics 101-103 courses](https://academy.dataiku.com/page/core-concepts), and is a starting point for a number of learning materials.\n\nThe project *HAIKU_STARTER_FOR_MAKOTO_MIYAZAKI_PRUNE_FLOW* was copied from *DKU_HAIKU_STARTER_1* by Makoto Miyazaki on Apr 09th 2021",
   "tags": [
-    "tutorial"
+    "tutorial",
+    "duplicated"
   ],
   "customFields": {},
   "checklists": {
