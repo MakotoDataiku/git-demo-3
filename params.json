@@ -215,7 +215,8 @@
       }
     }
   },
-  "name": "Haiku Starter",
+  "name": "Haiku Starter for Makoto Miyazaki",
+  "projectStatus": "Sandbox",
   "imgPattern": 8,
   "metrics": {
     "probes": [],
@@ -272,11 +273,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 134,
+    "versionNumber": 135,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1617961501530
+    "lastModifiedOn": 1617961505023
   },
   "creationTag": {
     "versionNumber": 0,
